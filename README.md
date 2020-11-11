@@ -1,7 +1,7 @@
-### Hi, I'm Fulvio A., a Software Developer from Dominican Republic 🇩🇴
+### Hi, I'm Fulvio A., a Software Developer from Dominican Republic 🇩🇴 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fulvio_moya/)](https://twitter.com/fulvio_moya) 
 
 - :book: I have a college degree in software developtment
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/fulvio_moya/)](https://twitter.com/fulvio_moya) 
+
 
 - 🌱 I’m currently learning TypeScript.
 - 💬 Ask me about mobile app development and clean architectures.

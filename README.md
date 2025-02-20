@@ -7,5 +7,5 @@
 - 💬 Ask me about mobile app development and clean architectures.
 
 - **Programming**: Swift, Objective-C, Kotlin, Java (*EJB, JPA*), JS (*Typescript, Vue*).
-- **Tech**: iOS, Android, SGBD (*MySQL, Oracle, Mongodb*), API (*REST, OpenAPI*), Service-oriented architecture (*SOA*).
+- **Tech**: iOS, Android, SGBD (*PostgreSQL, Mongodb*), API (*REST, OpenAPI*), Service-oriented architecture (*SOA*).
 - **Languages**: Native spanish, english (technical knowledge)
